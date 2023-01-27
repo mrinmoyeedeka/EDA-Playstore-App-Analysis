@@ -44,6 +44,17 @@ User reviews data:
     4. Sentiment_Polarity - a numerical score indicating the sentiment polarity (ranging from -1 to 1)
     5. Sentiment_Subjectivity - a numerical score indicating the sentiment subjectivity (ranging from 0 to 1)
 
+# Problem Statements
+
+1.  What is the percentage of free and paid Apps in the Play Store?
+2.  Finding total number of Free vs Paid Apps Depending on the category and the number of Installs?
+3.  Finding Average Rating of each App category.
+4.  Obtaining Average Rating for each genre .
+5. Calculating the distribution of app types based on the number of installs and the content rating.
+6.  How sentiment polarity varies with Free and paid Apps?
+7.  Different percentages of sentiment analysis on top 3 Reviewed App Categories?
+8.  Analysis of sentiment for each app category.
+
 # Requirements
 
 To run this project, you will need to have the following packages installed:
