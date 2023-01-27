@@ -2,7 +2,7 @@
 
 # Google Playstore Exploratory Data Analysis
 
-https://tenor.com/view/google-play-google-play-games-gif-22249656
+<div class="tenor-gif-embed" data-postid="22249656" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/google-play-google-play-games-gif-22249656">Google Play Google Play Games GIF</a>from <a href="https://tenor.com/search/google+play-gifs">Google Play GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 The Google Play Store is a digital marketplace for mobile apps on the Android operating system. These apps now significantly influence how we live our lives. The goal of this project is to provide information that will assist developers better understand client needs and, in turn, help the product become more well-known. This includes analyzing the relationship between app ratings and download numbers, identifying the most popular app categories, or exploring the sentiment of app reviews. The project also includes visualizations to help communicate the findings and insights.
 
