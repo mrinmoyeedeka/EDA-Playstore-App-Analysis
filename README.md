@@ -44,7 +44,7 @@ User reviews data:
     4. Sentiment_Polarity - a numerical score indicating the sentiment polarity (ranging from -1 to 1)
     5. Sentiment_Subjectivity - a numerical score indicating the sentiment subjectivity (ranging from 0 to 1)
 
-# Problem Statements
+# **Problem Statements**
 
 1.  What is the percentage of free and paid Apps in the Play Store?
 2.  Finding total number of Free vs Paid Apps Depending on the category and the number of Installs?
